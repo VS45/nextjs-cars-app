@@ -1,3 +1,4 @@
+
 import { NavBar,Footer } from '.'
 import './globals.css'
 import type { Metadata } from 'next'
